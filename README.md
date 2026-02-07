@@ -1,5 +1,10 @@
 # Building Agent Study
 
+[![GitHub stars](https://img.shields.io/github/stars/slicenferqin/building-agent-study?style=flat-square)](https://github.com/slicenferqin/building-agent-study/stargazers)
+[![GitHub repo size](https://img.shields.io/github/repo-size/slicenferqin/building-agent-study?style=flat-square)](https://github.com/slicenferqin/building-agent-study)
+[![GitHub last commit](https://img.shields.io/github/last-commit/slicenferqin/building-agent-study?style=flat-square)](https://github.com/slicenferqin/building-agent-study/commits/main)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](./LICENSE)
+
 一个面向 **Agent 工程学习与实践** 的中文深度学习项目。
 
 这个仓库围绕 Anthropic / Claude 相关的 15 篇核心文章（含官方工程博客与最佳实践文档），做了系统化精读与结构化沉淀：
@@ -9,13 +14,26 @@
 
 如果你希望不是“看几篇文章涨见识”，而是能真正建立 **可落地、可验证、可迭代** 的 Agent 工程方法，这个项目就是为你准备的。
 
-## 这个项目的价值
+## Why This Repo
 
 - **理论由浅入深**：从方法论地基到生产级治理，学习曲线连续。
 - **不是翻译，而是精读**：每篇都有核心命题、机制拆解、反模式、创新推演。
 - **强调可迁移性**：每篇都配实践清单（Checklist），可直接用于项目评审与迭代。
 - **跨文去重引用**：共通知识只在主责文章完整展开，其他目录直接引用，避免重复阅读成本。
 - **工程视角优先**：关注可观测、可回滚、可评测、可持续，而非“提示词玄学”。
+
+## 快速开始（Quick Start）
+
+```bash
+git clone https://github.com/slicenferqin/building-agent-study.git
+cd building-agent-study
+```
+
+推荐 4 周学习节奏：
+- 第 1 周：方法论总览（Workflow vs Agent、Tooling 基础）
+- 第 2 周：上下文工程与检索增强（Context / Retrieval / Think）
+- 第 3 周：多代理与长任务执行（Harness / Multi-agent / MCP）
+- 第 4 周：评测、安全、复盘（Evals / Sandboxing / Postmortem）
 
 ## 学习路线（推荐）
 
@@ -64,6 +82,15 @@
 - 已经在做 Agent，但遇到稳定性、成本、评测和安全问题的团队
 - 需要搭建内部 Agent 研发方法论与知识库的技术负责人
 
+## 给项目点个 Star
+
+如果这个仓库对你有帮助，欢迎点一个 [Star](https://github.com/slicenferqin/building-agent-study/stargazers)。
+
+你的支持会帮助这个项目持续迭代：
+- 增补新的 Agent 前沿文章精读
+- 增加更强的实践模板（评测、沙箱、治理）
+- 持续优化“去重引用 + 学习路径”结构
+
 ## License
 
-当前仓库为学习研究用途。如需开源发布，建议补充明确的 LICENSE 文件（如 MIT）。
+本项目采用 [MIT License](./LICENSE)。
