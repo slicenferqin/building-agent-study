@@ -1,0 +1,21 @@
+id,week,pillar,format,title,hook,cta,targetAudience,publishAt,status
+2026W1-G1,1,framework,image-text,一图读懂第一篇00：从会回答到会完成任务,30秒看懂Agent落地主线,评论00领取清单,mixed,2026-02-16T12:30:00,draft
+2026W1-V1,1,concept,video,为什么别一上来就做全自治Agent,先说结论：先简单后自治,评论边界领取判断模板,mixed,2026-02-17T20:30:00,draft
+2026W1-V2,1,framework,video,Agent Loop不是口号：Gather/Act/Verify怎么落地,你缺的不是模型是闭环,评论闭环领取最小模板,mixed,2026-02-19T20:30:00,draft
+2026W1-G2,1,checklist,image-text,可执行清单：你的Agent项目是否具备可验证闭环,5个问题自测是否可交付,评论自检领取表格,mixed,2026-02-20T12:30:00,draft
+2026W1-V3,1,case,video,本周避坑：3个看起来智能但脆弱的做法,这些做法短期爽长期翻车,mixed,2026-02-21T20:30:00,draft
+2026W2-G1,2,framework,image-text,一图读懂：Workflow和Agent边界判定图,先判断边界再谈智能,评论边界,mixed,2026-02-23T12:30:00,draft
+2026W2-V1,2,concept,video,30秒懂：什么叫可验证反馈,没有验证就没有交付,newbie,2026-02-24T20:30:00,draft
+2026W2-V2,2,framework,video,如何把失败样例转成回归资产,失败不是事故是资产,pro,2026-02-26T20:30:00,draft
+2026W2-G2,2,checklist,image-text,实操清单：为Agent设计停止条件与预算上限,不上预算上限就是隐形失控,pro,2026-02-27T12:30:00,draft
+2026W2-V3,2,case,video,本周避坑：只看演示成功为什么危险,能演示不等于能上线,mixed,2026-02-28T20:30:00,draft
+2026W3-G1,3,framework,image-text,一图读懂：评测分层怎么搭,先能力后回归再监控,pro,2026-03-02T12:30:00,draft
+2026W3-V1,3,concept,video,30秒懂：pass@k和稳定性有什么差别,一次答对不等于稳定答对,pro,2026-03-03T20:30:00,draft
+2026W3-V2,3,framework,video,从工具设计看Agent可用性,工具描述就是控制面,pro,2026-03-05T20:30:00,draft
+2026W3-G2,3,checklist,image-text,实操清单：高风险动作如何做权限边界,边界内自由边界外审慎,pro,2026-03-06T12:30:00,draft
+2026W3-V3,3,case,video,本周避坑：并行代理为什么越做越乱,并行提升吞吐不自动提升一致性,pro,2026-03-07T20:30:00,draft
+2026W4-G1,4,framework,image-text,一图复盘：30天内容模型胜出规律,哪些结构持续赢了,mixed,2026-03-09T12:30:00,draft
+2026W4-V1,4,concept,video,30秒懂：Agent项目为什么要先定义停机条件,没有停机条件就会无限回路,mixed,2026-03-10T20:30:00,draft
+2026W4-V2,4,framework,video,从内容到系统：如何建立你的个人方法库,把单条内容变成体系化资产,mixed,2026-03-12T20:30:00,draft
+2026W4-G2,4,checklist,image-text,30天结案清单：保留栏目下线栏目新增栏目,复盘不是总结是下一轮起点,mixed,2026-03-13T12:30:00,draft
+2026W4-V3,4,case,video,本周避坑：为什么内容勤奋不等于增长,不做复盘的勤奋叫重复劳动,mixed,2026-03-14T20:30:00,draft

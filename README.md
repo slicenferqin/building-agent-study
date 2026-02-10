@@ -91,6 +91,10 @@ cd building-agent-study
 - 增加更强的实践模板（评测、沙箱、治理）
 - 持续优化“去重引用 + 学习路径”结构
 
+## 内容运营方案
+
+- [小红书 30 天运营包](./xiaohongshu-agent-ip-30day/README.md)：面向 Agent 学习 IP 的定位、选题、发布节奏、复盘与模板。
+
 ## License
 
 本项目采用 [MIT License](./LICENSE)。
