@@ -94,3 +94,7 @@ cd building-agent-study
 ## License
 
 本项目采用 [MIT License](./LICENSE)。
+
+## 新增文章（滚动）
+
+- [Building a C compiler with a team of parallel Claudes](./building-c-compiler)（状态：已完成精读，来源：[原文](https://www.anthropic.com/engineering/building-c-compiler)）

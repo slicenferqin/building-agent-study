@@ -17,8 +17,9 @@
 | 13 | Beyond permission prompts: Claude Code sandboxing | 已完成精读 | 第二批 | `beyond-permission-prompts-claude-code-sandboxing` | https://www.anthropic.com/engineering/claude-code-sandboxing |
 | 14 | Claude Code: Best practices for agentic coding | 已完成精读 | 第二批 | `claude-code-best-practices-for-agentic-coding` | https://code.claude.com/docs/en/best-practices |
 | 15 | A postmortem of three recent issues | 已完成精读 | 第二批 | `a-postmortem-of-three-recent-issues` | https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues |
+| 16 | Building a C compiler with a team of parallel Claudes | 已完成精读 | 新增 | `building-c-compiler` | https://www.anthropic.com/engineering/building-c-compiler |
 
 ## 说明
-- 除第 2 篇为既有目录外，其余 14 篇均已按“README + 主精读 + 概念专题”结构创建。
+- 除第 2 篇为既有目录外，其余 15 篇均已按“README + 主精读 + 概念专题”结构创建。
 - 全局学习导航见根目录 `README.md`。
 - 已完成跨目录去重润色：重复观点改为“跨文直接引用”，避免多目录重复展开。
